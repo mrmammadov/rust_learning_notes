@@ -1,0 +1,1 @@
+# A Repository where I take notes, write code snippets, share my own experience with learning Rust. Notes from myself to (future) myself.
