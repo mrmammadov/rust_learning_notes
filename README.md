@@ -20,3 +20,9 @@
  - https://fasterthanli.me/
  - https://readrust.net/
  - [Rust's official Blog](https://blog.rust-lang.org/inside-rust/)
+
+### Project Ideas
+ - Algorithms as CLI tools
+ - Reminder App
+ - A Game
+ - _Next big thing that will revolutinize the world.._
