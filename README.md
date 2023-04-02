@@ -14,7 +14,7 @@
 ### Youtube Channels
  - [fasterthanlime](https://www.youtube.com/@fasterthanlime)
  - [ThePrimeagen](https://www.youtube.com/@ThePrimeagen)
- - [Rust is Easy](https://www.youtube.com/@NoBoilerplate)
+ - [No Boilerplate](https://www.youtube.com/@NoBoilerplate)
 
 ### Blogs
  - https://fasterthanli.me/
