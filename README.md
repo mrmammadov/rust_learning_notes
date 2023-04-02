@@ -26,3 +26,6 @@
  - Reminder App
  - A Game
  - _Next big thing that will revolutinize the world.._
+
+### Rust Projects to read
+ - [CLI Tools written in Rust](https://gist.github.com/sts10/daadbc2f403bdffad1b6d33aff016c0a)
