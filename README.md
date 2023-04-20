@@ -4,6 +4,7 @@
 ### Books
  - Rust's Official book - [The Book](https://doc.rust-lang.org/stable/book/title-page.html)
  - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
+ - [Cargo Book](https://doc.rust-lang.org/cargo/index.html)
 
 
 ### Miscellaneous
